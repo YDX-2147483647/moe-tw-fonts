@@ -99,7 +99,7 @@ For example, the situation as of [2025-11-24](https://github.com/typst/typst/iss
   - The version string in the `name` table of the file was `Version 4.1, July, 2024` for Unicode platform and `Version 4.2, December, 2024` for Windows platform.
 - Big5 version:
   - The file name in `edusong-big5.zip` did not contain version or date.
-  - The version string in the `name` table of the file was `Version 4.1, December, 2025` for both Unicode and Windows platforms.
+  - The version string in the `name` table of the file was `Version 4.0, November, 2023` for both Unicode and Windows platforms.
 
 Helplessly, this repository stores them as `eduSong_Unicode-v4.2-2024-12.ttf` and `eduSong_Big5-v4.1-2025-12.ttf`.
 
