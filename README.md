@@ -6,7 +6,10 @@ This is an unofficial collection of fonts in [國字標準字體 | 教育部 語
 
 Versions and names in the upstream source are [chaotic](#About-the-versions), making it difficult to use the fonts in CI and reproduce bugs like [typst#7449](https://github.com/typst/typst/issues/7449). Therefore, this repository is created.
 
-## Fonts
+> [!TIP]
+> To download TTF files, visit [`./fonts/`](./fonts/).
+
+## Details of the font names
 
 A font file may specify [multiple names in the OpenType `name` table](https://learn.microsoft.com/en-us/typography/opentype/spec/name#platform-encoding-and-language), so you may see different names in different environments.
 
